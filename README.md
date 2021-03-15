@@ -1,2 +1,2 @@
-# obsidian-sorcery
-A Minecraft mod.
+# Obsidian Sorcery
+A Minecraft mod about magic and obsidian.
